@@ -17,20 +17,20 @@
 ## Screenshots 📸
 
 1. **Home Page**  
-   ![Home Page]![Screenshot 2025-01-14 115424](https://github.com/user-attachments/assets/a598ad56-f79b-41ed-9df3-d5632b6d800b)
+   ![Screenshot 2025-01-14 115424](https://github.com/user-attachments/assets/a598ad56-f79b-41ed-9df3-d5632b6d800b)
 
 2. **Pizza Menu**  
-   ![Pizza Menu] ![Screenshot 2025-01-14 115452](https://github.com/user-attachments/assets/6f26a65e-75ce-4398-82ac-6bb5126e4d99)
+   ![Screenshot 2025-01-14 115452](https://github.com/user-attachments/assets/6f26a65e-75ce-4398-82ac-6bb5126e4d99)
 
 3. **Cart Page**  
-   ![Cart Page]![Screenshot 2025-01-14 115520](https://github.com/user-attachments/assets/7285890d-0118-4fe0-9001-7668b490370c)
+   ![Screenshot 2025-01-14 115520](https://github.com/user-attachments/assets/7285890d-0118-4fe0-9001-7668b490370c)
 
 4. **Order Pizza**  
-   ![Ordering Pizza]![Screenshot 2025-01-14 115628](https://github.com/user-attachments/assets/ae230121-a1cb-463c-a2a9-4ff1259e8c50)
+   ![Screenshot 2025-01-14 115628](https://github.com/user-attachments/assets/ae230121-a1cb-463c-a2a9-4ff1259e8c50)
 
    
 5. **Order Tracking**  
-   ![Order Tracking] ![Screenshot 2025-01-14 115744](https://github.com/user-attachments/assets/958c8571-35f3-4089-9d6d-197a5c9d3c10)
+   ![Screenshot 2025-01-14 115744](https://github.com/user-attachments/assets/958c8571-35f3-4089-9d6d-197a5c9d3c10)
 
 ---
 
