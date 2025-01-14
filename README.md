@@ -84,10 +84,5 @@
 
 ---
 
-## Contributing 🤝
-Contributions are welcome! Fork the repo, create a new branch, and submit a pull request.  
-
----
-
 Enjoy ordering and tracking pizzas with **Fast React Pizza**! 🍕✨
 
